@@ -1,7 +1,7 @@
 # web_scraping
 Module 11 Challenge
 
-!(https://scrape-it.cloud/assets/cache_image/assets/components/images/blog/web-scraping_1536x640_7dd.webp)
+![Alt text](https://scrape-it.cloud/assets/cache_image/assets/components/images/blog/web-scraping_1536x640_7dd.webp)
 
 
 ## Background
